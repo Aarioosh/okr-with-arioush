@@ -1,0 +1,6 @@
+interface:
+  display_name: "او کی آر با آریوش"
+  short_description: "با هم او کی آر می‌نویسیم و ویرایش می‌کنیم."
+  default_prompt: "با $write-review-outcome-okrs با هم او کی آر بنویسیم یا ویرایش کنیم؛ اگر از صفر شروع می‌کنم، قدم‌به‌قدم راهنمایی‌ام کن."
+policy:
+  allow_implicit_invocation: true
